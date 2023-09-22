@@ -340,7 +340,7 @@ background:#618ef4 !important;}
 }
 
 #fh5co-testimonials {
-  background: #6173f4;
+  background: #ffffff;
 }
 #fh5co-testimonials .section-heading h2 {
   color: white;
@@ -353,7 +353,7 @@ background:#618ef4 !important;}
 }
 #fh5co-testimonials .box-testimony {
   margin-bottom: 2em;
-  float: left;
+  /* float: left; */
 }
 #fh5co-testimonials .box-testimony a {
   color: rgba(255, 255, 255, 0.5);
@@ -366,7 +366,7 @@ background:#618ef4 !important;}
   padding-left: 0;
   border-left: none;
   padding: 40px;
-  background: #fff;
+  background: #5265c3;
   position: relative;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
